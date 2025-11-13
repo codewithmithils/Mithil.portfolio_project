@@ -55,3 +55,6 @@ Run index.html using Live Server (or open directly in a browser)
 Deployment
 
 You can deploy this on GitHub Pages, Netlify, or Vercel anytime.
+
+PROJECT LINK: https://github.com/codewithmithils/Mithil.portfolio_project
+DEPLOYMENT LINK:  https://codewithmithils.github.io/Mithil.portfolio_project/
